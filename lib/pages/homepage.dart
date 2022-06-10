@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:weather_app_test/variables/variables.dart';
 
 class homePage extends StatelessWidget {
   const homePage({Key? key}) : super(key: key);
